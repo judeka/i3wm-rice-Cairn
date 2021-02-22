@@ -37,4 +37,5 @@ An i3 rice with contrast and nice shades.
 * `picom/*` to `~/.config/picom/`
 * `wallpaper/*` to `~/Pictures/haskellgray.png`
 * `zsh/*` to `~/.zshrc`
-* `.xinitrc` to `~/.xinitrc`
+* `.xinitrc` to `~/.xinitrc` (required for picom to pull config from ~/.config dir)
+

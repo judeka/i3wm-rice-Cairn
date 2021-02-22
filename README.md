@@ -18,6 +18,7 @@ An i3 rice with contrast and nice shades.
 * [rofi](https://github.com/DaveDavenport/rofi) (dmenu replacement)
 * [material design icons](https://materialdesignicons.com/) (icon font)
 * [scrot](https://github.com/dreamer/scrot) (screenshot software)
+* [jfetch](https://github.com/Jimmysit0/jfetch) (cool and minimal system info fetch tool)
 * [termite](https://wiki.archlinux.org/index.php/Rxvt-unicode) (terminal emulator)
 * [ttf-ubuntu-font-family](https://archlinux.org/packages/community/any/ttf-ubuntu-font-family/) (font used for the bar)
 * [pulseaudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) (audio softare)
@@ -25,7 +26,6 @@ An i3 rice with contrast and nice shades.
 
 ### Optional
 * [ranger](https://github.com/ranger/ranger) (console file manager)
-* [jfetch](https://github.com/Jimmysit0/jfetch) (cool and minimal system info fetch tool)
 * [gotop](https://github.com/cjbassi/gotop) (terminal based activity monitor)
 * [mpv](https://github.com/mpv-player/mpv) (required for optional GIF wallpaper)
 ***

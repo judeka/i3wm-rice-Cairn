@@ -1,0 +1,78 @@
+#custom termite theme -judeka
+#colorscheme: https://github.com/khamer/base16-termite/blob/master/themes/base16-black-metal-venom.config
+
+[options]
+allow_bold = true
+bold_is_bright = true
+#cell_height_scale = 1.0
+#cell_width_scale = 10.0
+clickable_url = true
+dynamic_title = true
+font = Ubuntu Mono Regular 10
+#fullscreen = true
+#icon_name = terminal
+scrollback_lines = 9999
+hyperlinks = false
+
+# $BROWSER is used by default if set, with xdg-open as a fallback
+browser = xdg-open
+
+# "system", "on" or "off"
+cursor_blink = on
+
+# "block", "underline" or "ibeam"
+cursor_shape = block
+
+# Hide links that are no longer valid in url select overlay mode
+#filter_unmatched_urls = true
+
+# Emit escape sequences for extra modified keys
+#modify_other_keys = false
+
+[colors]
+
+foreground = #bed8e4
+foreground_bold = #660066
+background = rgba(10, 10, 10, 0.9)
+
+highlight = #2f2f2f
+
+# Black, Gray, Silver, White
+color0  = #0a0a0a
+color8  = #333333
+color7  = #c1c1c1
+color15 = #c1c1c1
+
+# Red
+color1  = #5f8787
+color9  = #5f8787
+
+# Green
+color2  = #f8f7f2
+color10 = #f8f7f2
+
+# Yellow
+color3  = #79241f
+color11 = #79241f
+
+# Blue
+color4  = #888888
+color12 = #888888
+
+# Purple
+color5  = #660066
+color13 = #501f7a
+
+# Teal
+color6  = #aaaaaa
+color14 = #aaaaaa
+
+# Extra colors
+color16 = #aaaaaa
+color17 = #444444
+color18 = #121212
+color19 = #222222
+color20 = #999999
+color21 = #999999
+
+# vim: ft=dosini cms=#%s

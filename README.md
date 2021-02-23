@@ -19,7 +19,7 @@ An i3 rice with contrast and nice shades.
 * [material design icons](https://materialdesignicons.com/) (icon font)
 * [scrot](https://github.com/dreamer/scrot) (screenshot software)
 * [jfetch](https://github.com/Jimmysit0/jfetch) (cool and minimal system info fetch tool)
-* [termite](https://wiki.archlinux.org/index.php/Rxvt-unicode) (terminal emulator)
+* [termite](https://github.com/thestinger/termite) (terminal emulator)
 * [ttf-ubuntu-font-family](https://archlinux.org/packages/community/any/ttf-ubuntu-font-family/) (font used for the bar)
 * [pulseaudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) (audio software)
 * [zsh](https://www.zsh.org/) (shell)

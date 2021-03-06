@@ -16,7 +16,7 @@ An i3 rice with contrast and nice shades.
 * [feh](https://feh.finalrewind.org/) (image viewer and wallpaper setter)
 * [picom](https://github.com/yshui/picom)  (compositor for opacity)
 * [rofi](https://github.com/DaveDavenport/rofi) (dmenu replacement)
-* [material design icons](https://materialdesignicons.com/) (icon font)
+* [material design icons](https://aur.archlinux.org/packages/ttf-material-design-icons-git/) (icon font)
 * [scrot](https://github.com/dreamer/scrot) (screenshot software)
 * [jfetch](https://github.com/Jimmysit0/jfetch) (cool and minimal system info fetch tool)
 * [termite](https://github.com/thestinger/termite) (terminal emulator)

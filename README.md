@@ -23,6 +23,7 @@ An i3 rice with contrast and nice shades.
 * [ttf-ubuntu-font-family](https://archlinux.org/packages/community/any/ttf-ubuntu-font-family/) (font used for the bar)
 * [pulseaudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) (audio software)
 * [zsh](https://www.zsh.org/) (shell)
+* [zsh-syntax-highlighting](https://archlinux.org/packages/community/any/zsh-syntax-highlighting/) (shell color)
 
 ### Optional
 * [ranger](https://github.com/ranger/ranger) (console file manager)
